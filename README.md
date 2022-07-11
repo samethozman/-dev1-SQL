@@ -1,1 +1,1 @@
-# -dev1-SQL
+# ödevler-SQL
